@@ -1,0 +1,69 @@
+@charset "utf-8";
+/* CSS Document */
+.top-bar{
+	height: 50px; line-height: 50px
+}
+.top-bar a{
+	color: white
+}
+.top-bar a:hover{
+	color: #F7A272
+}
+.navbar .navbar-nav .nav-item .nav-link{
+	padding: 10px 20px
+}
+.navbar .navbar-nav .nav-item .nav-link:hover{
+	color: #7272F7; 
+}
+.navbar .navbar-nav .nav-item .dropdown-menu{
+	background-color: #7272F7; padding-top: 0; padding-bottom: 0
+}
+.navbar .navbar-nav .nav-item .dropdown-menu .dropdown-item{
+	color: white
+}
+.navbar .navbar-nav .nav-item .dropdown-menu .dropdown-item:hover{
+	background-color: #F7A272
+}
+.navbar .navbar-nav .nav-item .dropdown-menu li{
+	border-bottom: 1px solid white
+}
+main{
+	min-height: 500px
+}
+.gach-chan{
+	border-bottom: 2px solid #F7A272
+}
+footer .navbar-nav .nav-item .nav-link:hover{
+	color: #F7A272
+}
+footer a{
+	color: white
+}
+footer a:hover{
+	color: #F7A272
+}
+.bottom-bar{
+	height: 50px; line-height: 50px
+}
+#service a{
+	text-decoration: none; color: #0B0A0B
+}
+#service a:hover{
+	color: #FFC113
+}
+#why{
+	width: 100%; min-height: 300px; background-image: url("../images/why.jpg"); background-repeat: no-repeat; background-size: cover;
+	background-position: center top
+}
+.hinh{
+	width: 100%;position: relative
+}
+.truoc{
+	position: absolute; left: 0; top: 0; padding: 8px; background-color: rgba(255,255,255,0.50)
+}
+.sau{
+	position: absolute; left: 50%; top: 0; padding: 8px; background-color: rgba(255,255,255,0.50)
+}
+#client{
+	padding-top: 24px
+}
